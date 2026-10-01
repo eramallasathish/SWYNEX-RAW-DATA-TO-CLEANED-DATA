@@ -26,7 +26,7 @@ The following data cleaning and preparation activities were performed:
 
 ### Cleaned Data Screenshot
 
-![Cleaned Data](cleaned%20data%20image.png)
+<img width="1888" height="715" alt="Image" src="https://github.com/user-attachments/assets/198dd8ae-3166-4a9b-9803-224ba887fc92" />
 
 ## 🛠️ Tools Used
 
